@@ -1,0 +1,1343 @@
+Access,08/15/2020, 16:29:17,260,Stamps,Success,2020-08-15 20:29:18,1.13.0
+4742,Europe,1506653
+261,United States,1494576
+3499,Great Britain,628395
+4752,Topical Stamps,563521
+65174,British Colonies & Territories,482306
+181420,Worldwide,304851
+181416,Asia,276682
+3478,Canada,221036
+181424,Australia & Oceania,194793
+181423,Africa,153682
+181417,Latin America,150454
+181422,Middle East,139413
+7898,Specialty Philately,65537
+181421,Publications & Supplies,50011
+179377,Caribbean,36720
+170137,Other Stamps,28101
+Access,08/16/2020, 10:21:59,260,Stamps,Success,2020-08-16 14:21:59,1.13.0
+4742,Europe,1498899
+261,United States,1489005
+3499,Great Britain,627801
+4752,Topical Stamps,561745
+65174,British Colonies & Territories,486488
+181420,Worldwide,301340
+181416,Asia,276520
+3478,Canada,221163
+181424,Australia & Oceania,194872
+181423,Africa,152665
+181417,Latin America,149946
+181422,Middle East,139580
+7898,Specialty Philately,64941
+181421,Publications & Supplies,49980
+179377,Caribbean,36747
+170137,Other Stamps,27287
+Access,08/17/2020, 21:25:04,260,Stamps,Success,2020-08-18 01:25:04,1.13.0
+261,United States,1485499
+4742,Europe,1472062
+3499,Great Britain,630249
+4752,Topical Stamps,557879
+65174,British Colonies & Territories,477165
+181420,Worldwide,302572
+181416,Asia,274145
+3478,Canada,220700
+181424,Australia & Oceania,193942
+181417,Latin America,148729
+181423,Africa,148483
+181422,Middle East,135658
+7898,Specialty Philately,64094
+181421,Publications & Supplies,49544
+179377,Caribbean,36428
+170137,Other Stamps,27736
+Access,08/18/2020, 22:03:13,260,Stamps,Success,2020-08-19 02:03:14,1.13.0
+261,United States,1486028
+4742,Europe,1461299
+3499,Great Britain,631779
+4752,Topical Stamps,553794
+65174,British Colonies & Territories,478417
+181420,Worldwide,299094
+181416,Asia,273729
+3478,Canada,221312
+181424,Australia & Oceania,193672
+181417,Latin America,150106
+181423,Africa,145838
+181422,Middle East,135063
+7898,Specialty Philately,63750
+181421,Publications & Supplies,49314
+179377,Caribbean,36197
+170137,Other Stamps,26850
+Access,08/19/2020, 20:42:52,260,Stamps,Success,2020-08-20 00:42:52,1.13.0
+261,United States,1484966
+4742,Europe,1458881
+3499,Great Britain,631964
+4752,Topical Stamps,545861
+65174,British Colonies & Territories,478961
+181420,Worldwide,302140
+181416,Asia,273520
+3478,Canada,221299
+181424,Australia & Oceania,192924
+181417,Latin America,150301
+181423,Africa,144399
+181422,Middle East,134713
+7898,Specialty Philately,63361
+181421,Publications & Supplies,49237
+179377,Caribbean,36129
+170137,Other Stamps,27737
+Access,08/21/2020, 00:30:53,260,Stamps,Success,2020-08-21 04:30:53,1.13.0
+261,United States,1486545
+4742,Europe,1454036
+3499,Great Britain,632143
+4752,Topical Stamps,543764
+65174,British Colonies & Territories,480498
+181420,Worldwide,295446
+181416,Asia,272951
+3478,Canada,221481
+181424,Australia & Oceania,193108
+181417,Latin America,150482
+181423,Africa,143516
+181422,Middle East,135220
+7898,Specialty Philately,63140
+181421,Publications & Supplies,47950
+179377,Caribbean,35950
+170137,Other Stamps,26039
+Access,08/21/2020, 18:10:36,260,Stamps,Success,2020-08-21 22:10:37,1.13.0
+261,United States,1484260
+4742,Europe,1451593
+3499,Great Britain,631744
+4752,Topical Stamps,541840
+65174,British Colonies & Territories,485503
+181420,Worldwide,301629
+181416,Asia,272917
+3478,Canada,220851
+181424,Australia & Oceania,192970
+181417,Latin America,150380
+181423,Africa,143790
+181422,Middle East,137183
+7898,Specialty Philately,62761
+181421,Publications & Supplies,48166
+179377,Caribbean,35913
+170137,Other Stamps,27456
+Access,08/22/2020, 12:13:30,260,Stamps,Success,2020-08-22 16:13:30,1.13.0
+261,United States,1487938
+4742,Europe,1445746
+3499,Great Britain,630674
+4752,Topical Stamps,536437
+65174,British Colonies & Territories,485156
+181420,Worldwide,302639
+181416,Asia,273732
+3478,Canada,222329
+181424,Australia & Oceania,192632
+181417,Latin America,150171
+181423,Africa,142113
+181422,Middle East,136501
+7898,Specialty Philately,62964
+181421,Publications & Supplies,47724
+179377,Caribbean,35758
+170137,Other Stamps,27304
+Access,08/23/2020, 23:25:24,260,Stamps,Success,2020-08-24 03:25:25,1.13.0
+261,United States,1482553
+4742,Europe,1442804
+3499,Great Britain,629546
+4752,Topical Stamps,536085
+65174,British Colonies & Territories,484862
+181420,Worldwide,302610
+181416,Asia,273433
+3478,Canada,222482
+181424,Australia & Oceania,192968
+181417,Latin America,150286
+181423,Africa,141669
+181422,Middle East,136549
+7898,Specialty Philately,63055
+181421,Publications & Supplies,47489
+179377,Caribbean,35635
+170137,Other Stamps,27284
+Access,08/24/2020, 12:12:53,260,Stamps,Success,2020-08-24 16:12:53,1.13.0
+261,United States,1480424
+4742,Europe,1438177
+3499,Great Britain,628569
+4752,Topical Stamps,534176
+65174,British Colonies & Territories,485470
+181420,Worldwide,302298
+181416,Asia,272286
+3478,Canada,222607
+181424,Australia & Oceania,192490
+181417,Latin America,150017
+181423,Africa,140811
+181422,Middle East,136530
+7898,Specialty Philately,62673
+181421,Publications & Supplies,47272
+179377,Caribbean,35520
+170137,Other Stamps,27271
+Access,08/25/2020, 10:01:31,260,Stamps,Success,2020-08-25 14:01:31,1.13.0
+261,United States,1479750
+4742,Europe,1435529
+3499,Great Britain,628589
+4752,Topical Stamps,531872
+65174,British Colonies & Territories,486214
+181420,Worldwide,295633
+181416,Asia,272234
+3478,Canada,222632
+181424,Australia & Oceania,192271
+181417,Latin America,150041
+181423,Africa,139729
+181422,Middle East,136215
+7898,Specialty Philately,62708
+181421,Publications & Supplies,47157
+179377,Caribbean,35395
+170137,Other Stamps,25307
+Access,08/26/2020, 22:19:23,260,Stamps,Success,2020-08-27 00:19:24,1.13.0
+261,United States,1473095
+4742,Europe,1425314
+3499,Great Britain,628674
+4752,Topical Stamps,527905
+65174,British Colonies & Territories,486060
+181420,Worldwide,272413
+181416,Asia,270341
+3478,Canada,222361
+181424,Australia & Oceania,191780
+181417,Latin America,148893
+181423,Africa,137817
+181422,Middle East,135531
+7898,Specialty Philately,62152
+181421,Publications & Supplies,45484
+179377,Caribbean,35204
+170137,Other Stamps,26852
+Access,08/27/2020, 09:59:45,260,Stamps,Success,2020-08-27 13:59:46,1.13.0
+261,United States,1466510
+4742,Europe,1419541
+3499,Great Britain,628729
+4752,Topical Stamps,525680
+65174,British Colonies & Territories,485592
+181420,Worldwide,271081
+181416,Asia,269846
+3478,Canada,222464
+181424,Australia & Oceania,191435
+181417,Latin America,148530
+181423,Africa,137246
+181422,Middle East,135155
+7898,Specialty Philately,61641
+181421,Publications & Supplies,45468
+179377,Caribbean,35086
+170137,Other Stamps,26815
+Access,08/28/2020, 10:34:28,260,Stamps,Success,2020-08-28 14:34:30,1.13.0
+261,United States,1466793
+4742,Europe,1408207
+3499,Great Britain,629765
+4752,Topical Stamps,520906
+65174,British Colonies & Territories,485882
+181420,Worldwide,270574
+181416,Asia,268303
+3478,Canada,223212
+181424,Australia & Oceania,191643
+181417,Latin America,148664
+181423,Africa,136053
+181422,Middle East,134777
+7898,Specialty Philately,60892
+181421,Publications & Supplies,45319
+179377,Caribbean,34778
+170137,Other Stamps,26743
+Access,08/29/2020, 07:48:47,260,Stamps,Success,2020-08-29 11:48:48,1.13.0
+261,United States,1475594
+4742,Europe,1404913
+3499,Great Britain,627864
+4752,Topical Stamps,516563
+65174,British Colonies & Territories,485320
+181416,Asia,267443
+181420,Worldwide,265204
+3478,Canada,223059
+181424,Australia & Oceania,190822
+181417,Latin America,148923
+181423,Africa,135184
+181422,Middle East,135076
+7898,Specialty Philately,60258
+181421,Publications & Supplies,45316
+179377,Caribbean,34610
+170137,Other Stamps,26478
+Access,08/30/2020, 19:06:55,260,Stamps,Success,2020-08-30 23:06:58,1.13.0
+261,United States,1465978
+4742,Europe,1385875
+3499,Great Britain,621175
+4752,Topical Stamps,494560
+65174,British Colonies & Territories,480791
+181416,Asia,264460
+181420,Worldwide,263545
+3478,Canada,220768
+181424,Australia & Oceania,187613
+181417,Latin America,148335
+181422,Middle East,133417
+181423,Africa,132559
+7898,Specialty Philately,58482
+181421,Publications & Supplies,45189
+179377,Caribbean,34388
+170137,Other Stamps,26085
+Access,08/31/2020, 15:13:04,260,Stamps,Success,2020-08-31 19:13:07,1.13.0
+261,United States,1454425
+4742,Europe,1374686
+3499,Great Britain,619362
+4752,Topical Stamps,491113
+65174,British Colonies & Territories,478916
+181416,Asia,263146
+181420,Worldwide,262793
+3478,Canada,218302
+181424,Australia & Oceania,186707
+181417,Latin America,146640
+181422,Middle East,133918
+181423,Africa,131439
+7898,Specialty Philately,58213
+181421,Publications & Supplies,45181
+179377,Caribbean,34242
+170137,Other Stamps,25933
+Access,09/01/2020, 15:37:31,260,Stamps,Success,2020-09-01 19:37:34,1.13.0
+261,United States,1464578
+4742,Europe,1381434
+3499,Great Britain,624724
+4752,Topical Stamps,488530
+65174,British Colonies & Territories,479850
+181416,Asia,265572
+181420,Worldwide,264927
+3478,Canada,219992
+181424,Australia & Oceania,186426
+181417,Latin America,147324
+181422,Middle East,135023
+181423,Africa,131441
+7898,Specialty Philately,58120
+181421,Publications & Supplies,46891
+179377,Caribbean,34609
+170137,Other Stamps,25959
+Access,09/02/2020, 10:12:53,260,Stamps,Success,2020-09-02 14:12:57,1.13.0
+261,United States,1468026
+4742,Europe,1418532
+3499,Great Britain,624962
+4752,Topical Stamps,488735
+65174,British Colonies & Territories,482415
+181416,Asia,267040
+181420,Worldwide,255968
+3478,Canada,221322
+181424,Australia & Oceania,189855
+181417,Latin America,149153
+181422,Middle East,135708
+181423,Africa,132095
+7898,Specialty Philately,58749
+181421,Publications & Supplies,47123
+179377,Caribbean,34856
+170137,Other Stamps,23552
+Access,09/03/2020, 18:02:43,260,Stamps,Success,2020-09-03 22:02:47,1.13.0
+261,United States,1468004
+4742,Europe,1429777
+3499,Great Britain,627170
+4752,Topical Stamps,491124
+65174,British Colonies & Territories,483140
+181416,Asia,268137
+181420,Worldwide,266862
+3478,Canada,221665
+181424,Australia & Oceania,188914
+181417,Latin America,149709
+181422,Middle East,136194
+181423,Africa,132794
+7898,Specialty Philately,58847
+181421,Publications & Supplies,47609
+179377,Caribbean,34968
+170137,Other Stamps,27579
+Access,09/04/2020, 11:25:33,260,Stamps,Success,2020-09-04 15:25:36,1.13.0
+261,United States,1466364
+4742,Europe,1429444
+3499,Great Britain,627600
+4752,Topical Stamps,492214
+65174,British Colonies & Territories,483419
+181416,Asia,267347
+181420,Worldwide,266457
+3478,Canada,221832
+181424,Australia & Oceania,189994
+181417,Latin America,149414
+181422,Middle East,135994
+181423,Africa,132662
+7898,Specialty Philately,58606
+181421,Publications & Supplies,47530
+179377,Caribbean,35016
+170137,Other Stamps,27513
+Access,09/05/2020, 08:09:42,260,Stamps,Success,2020-09-05 12:09:46,1.13.0
+261,United States,1470127
+4742,Europe,1424393
+3499,Great Britain,626287
+4752,Topical Stamps,497662
+65174,British Colonies & Territories,482985
+181416,Asia,268309
+181420,Worldwide,265565
+3478,Canada,221992
+181424,Australia & Oceania,191301
+181417,Latin America,149454
+181422,Middle East,136531
+181423,Africa,130237
+7898,Specialty Philately,54641
+181421,Publications & Supplies,46956
+179377,Caribbean,35030
+170137,Other Stamps,27242
+Access,09/06/2020, 17:45:08,260,Stamps,Success,2020-09-06 21:45:07,1.13.0
+261,United States,1469458
+4742,Europe,1419231
+3499,Great Britain,620798
+4752,Topical Stamps,495646
+65174,British Colonies & Territories,481738
+181416,Asia,268265
+181420,Worldwide,249577
+3478,Canada,222835
+181424,Australia & Oceania,191123
+181417,Latin America,149038
+181422,Middle East,136209
+181423,Africa,130729
+7898,Specialty Philately,54526
+181421,Publications & Supplies,45789
+179377,Caribbean,34924
+170137,Other Stamps,20936
+Access,09/07/2020, 10:39:49,260,Stamps,Success,2020-09-07 14:39:50,1.13.0
+261,United States,1470241
+4742,Europe,1417311
+3499,Great Britain,620933
+4752,Topical Stamps,494849
+65174,British Colonies & Territories,481130
+181416,Asia,267650
+181420,Worldwide,263804
+3478,Canada,222719
+181424,Australia & Oceania,190840
+181417,Latin America,148921
+181422,Middle East,135972
+181423,Africa,130836
+7898,Specialty Philately,54369
+181421,Publications & Supplies,45301
+179377,Caribbean,34920
+170137,Other Stamps,26512
+Access,09/08/2020, 17:36:08,260,Stamps,Success,2020-09-08 21:36:09,1.13.0
+261,United States,1468568
+4742,Europe,1413480
+3499,Great Britain,621328
+4752,Topical Stamps,493532
+65174,British Colonies & Territories,482775
+181416,Asia,266935
+181420,Worldwide,265194
+3478,Canada,222870
+181424,Australia & Oceania,191356
+181417,Latin America,148728
+181422,Middle East,135781
+181423,Africa,130735
+7898,Specialty Philately,57558
+181421,Publications & Supplies,45730
+179377,Caribbean,35036
+170137,Other Stamps,26990
+Access,09/09/2020, 10:12:43,260,Stamps,Success,2020-09-09 14:12:44,1.13.0
+261,United States,1468361
+4742,Europe,1414112
+3499,Great Britain,622497
+4752,Topical Stamps,491840
+65174,British Colonies & Territories,482773
+181416,Asia,267923
+181420,Worldwide,264571
+3478,Canada,222733
+181424,Australia & Oceania,191143
+181417,Latin America,148523
+181422,Middle East,135637
+181423,Africa,130633
+7898,Specialty Philately,57574
+181421,Publications & Supplies,45709
+179377,Caribbean,35037
+170137,Other Stamps,27116
+Access,09/10/2020, 08:03:43,260,Stamps,Success,2020-09-10 12:03:47,1.13.0
+261,United States,1469962
+4742,Europe,1414235
+3499,Great Britain,622880
+4752,Topical Stamps,493321
+65174,British Colonies & Territories,482777
+181416,Asia,267556
+181420,Worldwide,265057
+3478,Canada,222518
+181424,Australia & Oceania,190515
+181417,Latin America,148780
+181422,Middle East,135075
+181423,Africa,130472
+7898,Specialty Philately,53922
+181421,Publications & Supplies,46520
+179377,Caribbean,34946
+170137,Other Stamps,27087
+Access,09/11/2020, 11:15:27,260,Stamps,Success,2020-09-11 15:15:27,1.13.0
+261,United States,1473553
+4742,Europe,1416995
+3499,Great Britain,625058
+4752,Topical Stamps,495766
+65174,British Colonies & Territories,482530
+181416,Asia,267470
+181420,Worldwide,260229
+3478,Canada,223388
+181424,Australia & Oceania,190054
+181417,Latin America,149108
+181422,Middle East,135141
+181423,Africa,130768
+7898,Specialty Philately,53764
+181421,Publications & Supplies,46637
+179377,Caribbean,34693
+170137,Other Stamps,25067
+Access,09/12/2020, 00:19:41,260,Stamps,Success,2020-09-12 04:19:42,1.13.0
+261,United States,1475228
+4742,Europe,1416102
+3499,Great Britain,624402
+4752,Topical Stamps,496720
+65174,British Colonies & Territories,481181
+181416,Asia,267058
+181420,Worldwide,261975
+3478,Canada,223490
+181424,Australia & Oceania,190081
+181417,Latin America,148998
+181422,Middle East,134757
+181423,Africa,130895
+7898,Specialty Philately,53660
+181421,Publications & Supplies,46659
+179377,Caribbean,34662
+170137,Other Stamps,25900
+Access,09/13/2020, 12:43:57,260,Stamps,Success,2020-09-13 16:43:58,1.13.0
+261,United States,1475013
+4742,Europe,1410617
+3499,Great Britain,622206
+4752,Topical Stamps,491849
+65174,British Colonies & Territories,476736
+181416,Asia,266314
+181420,Worldwide,264841
+3478,Canada,222786
+181424,Australia & Oceania,188538
+181417,Latin America,148849
+181422,Middle East,135067
+181423,Africa,129602
+7898,Specialty Philately,53691
+181421,Publications & Supplies,46762
+179377,Caribbean,34501
+170137,Other Stamps,26382
+Access,09/14/2020, 16:15:18,260,Stamps,Success,2020-09-14 20:15:19,1.13.0
+261,United States,1472813
+4742,Europe,1407331
+3499,Great Britain,618518
+4752,Topical Stamps,490729
+65174,British Colonies & Territories,477207
+181416,Asia,265793
+181420,Worldwide,260870
+3478,Canada,222452
+181424,Australia & Oceania,187911
+181417,Latin America,148613
+181422,Middle East,134135
+181423,Africa,129191
+7898,Specialty Philately,57223
+181421,Publications & Supplies,47229
+179377,Caribbean,34589
+170137,Other Stamps,24935
+Access,09/15/2020, 07:56:21,260,Stamps,Success,2020-09-15 11:56:23,1.13.0
+261,United States,1473188
+4742,Europe,1408683
+3499,Great Britain,619961
+4752,Topical Stamps,492385
+65174,British Colonies & Territories,479126
+181416,Asia,266377
+181420,Worldwide,253207
+3478,Canada,222631
+181424,Australia & Oceania,188272
+181417,Latin America,148935
+181422,Middle East,134321
+181423,Africa,129332
+7898,Specialty Philately,57178
+181421,Publications & Supplies,45929
+179377,Caribbean,34666
+170137,Other Stamps,22142
+Access,09/16/2020, 11:21:34,260,Stamps,Success,2020-09-16 15:21:37,1.13.0
+261,United States,1476585
+4742,Europe,1406518
+3499,Great Britain,615443
+4752,Topical Stamps,494652
+65174,British Colonies & Territories,478918
+181416,Asia,265379
+181420,Worldwide,261801
+3478,Canada,223004
+181424,Australia & Oceania,188694
+181417,Latin America,149122
+181422,Middle East,134607
+181423,Africa,129462
+7898,Specialty Philately,57068
+181421,Publications & Supplies,46030
+179377,Caribbean,34846
+170137,Other Stamps,25024
+Access,09/17/2020, 12:21:15,260,Stamps,Success,2020-09-17 16:21:17,1.13.0
+261,United States,1477720
+4742,Europe,1408432
+3499,Great Britain,620207
+4752,Topical Stamps,497747
+65174,British Colonies & Territories,480302
+181416,Asia,265899
+181420,Worldwide,251590
+3478,Canada,223032
+181424,Australia & Oceania,189252
+181417,Latin America,149193
+181422,Middle East,134984
+181423,Africa,129871
+7898,Specialty Philately,56598
+181421,Publications & Supplies,45986
+179377,Caribbean,34870
+170137,Other Stamps,20834
+Access,09/18/2020, 12:21:18,260,Stamps,Success,2020-09-18 16:21:27,1.13.0
+261,United States,1479320
+4742,Europe,1410940
+3499,Great Britain,620594
+4752,Topical Stamps,499325
+65174,British Colonies & Territories,481937
+181416,Asia,266608
+181420,Worldwide,261926
+3478,Canada,223124
+181424,Australia & Oceania,188929
+181417,Latin America,149237
+181422,Middle East,135300
+181423,Africa,130178
+7898,Specialty Philately,56156
+181421,Publications & Supplies,47367
+179377,Caribbean,34910
+170137,Other Stamps,25094
+Access,09/19/2020, 12:21:16,260,Stamps,Success,2020-09-19 16:21:26,1.13.0
+261,United States,1479552
+4742,Europe,1403362
+3499,Great Britain,619544
+65174,British Colonies & Territories,479705
+4752,Topical Stamps,479545
+181416,Asia,265382
+181420,Worldwide,262213
+3478,Canada,222965
+181424,Australia & Oceania,185544
+181417,Latin America,148555
+181422,Middle East,134643
+181423,Africa,126953
+7898,Specialty Philately,56670
+181421,Publications & Supplies,47617
+179377,Caribbean,34703
+170137,Other Stamps,25066
+Access,09/20/2020, 12:21:16,260,Stamps,Success,2020-09-20 16:21:26,1.13.0
+261,United States,1477647
+4742,Europe,1406527
+3499,Great Britain,619859
+4752,Topical Stamps,492050
+65174,British Colonies & Territories,480067
+181416,Asia,265729
+181420,Worldwide,265023
+3478,Canada,222851
+181424,Australia & Oceania,187498
+181417,Latin America,149450
+181422,Middle East,134482
+181423,Africa,129127
+7898,Specialty Philately,56922
+181421,Publications & Supplies,47572
+179377,Caribbean,34888
+170137,Other Stamps,26023
+Access,09/21/2020, 12:21:17,260,Stamps,Success,2020-09-21 16:21:26,1.13.0
+261,United States,1476266
+4742,Europe,1406760
+3499,Great Britain,616340
+4752,Topical Stamps,491498
+65174,British Colonies & Territories,478818
+181416,Asia,266582
+181420,Worldwide,265105
+3478,Canada,221458
+181424,Australia & Oceania,187070
+181417,Latin America,149826
+181422,Middle East,134447
+181423,Africa,129313
+7898,Specialty Philately,56675
+181421,Publications & Supplies,47596
+179377,Caribbean,34877
+170137,Other Stamps,26007
+Access,09/22/2020, 12:21:15,260,Stamps,Success,2020-09-22 16:21:25,1.13.0
+261,United States,1478540
+4742,Europe,1406077
+3499,Great Britain,616605
+4752,Topical Stamps,492822
+65174,British Colonies & Territories,479056
+181416,Asia,265973
+181420,Worldwide,260671
+3478,Canada,221227
+181424,Australia & Oceania,186584
+181417,Latin America,149573
+181422,Middle East,134563
+181423,Africa,129506
+7898,Specialty Philately,56526
+181421,Publications & Supplies,47606
+179377,Caribbean,34809
+170137,Other Stamps,24483
+Access,09/23/2020, 12:21:15,260,Stamps,Success,2020-09-23 16:21:26,1.13.0
+261,United States,1480464
+4742,Europe,1407731
+3499,Great Britain,621808
+4752,Topical Stamps,494585
+65174,British Colonies & Territories,481291
+181420,Worldwide,267539
+181416,Asia,266762
+3478,Canada,222232
+181424,Australia & Oceania,187658
+181417,Latin America,149981
+181422,Middle East,134640
+181423,Africa,130363
+7898,Specialty Philately,56794
+181421,Publications & Supplies,47610
+179377,Caribbean,34885
+170137,Other Stamps,25430
+Access,09/24/2020, 12:21:15,260,Stamps,Success,2020-09-24 16:21:26,1.13.0
+261,United States,1481427
+4742,Europe,1412017
+3499,Great Britain,626641
+4752,Topical Stamps,505435
+65174,British Colonies & Territories,482978
+181420,Worldwide,270793
+181416,Asia,267729
+3478,Canada,222901
+181424,Australia & Oceania,188503
+181417,Latin America,150487
+181422,Middle East,134728
+181423,Africa,130679
+7898,Specialty Philately,57153
+181421,Publications & Supplies,47753
+179377,Caribbean,35043
+170137,Other Stamps,26511
+Access,09/25/2020, 12:21:15,260,Stamps,Success,2020-09-25 16:21:27,1.13.0
+261,United States,1479511
+4742,Europe,1408628
+3499,Great Britain,628960
+4752,Topical Stamps,510916
+65174,British Colonies & Territories,484153
+181420,Worldwide,268725
+181416,Asia,267192
+3478,Canada,223815
+181424,Australia & Oceania,188678
+181417,Latin America,149790
+181422,Middle East,134528
+181423,Africa,129914
+7898,Specialty Philately,57333
+181421,Publications & Supplies,47697
+179377,Caribbean,34880
+170137,Other Stamps,25921
+Access,09/26/2020, 12:21:19,260,Stamps,Success,2020-09-26 16:21:30,1.13.0
+261,United States,1471866
+4742,Europe,1409509
+3499,Great Britain,630552
+4752,Topical Stamps,509133
+65174,British Colonies & Territories,485452
+181420,Worldwide,270199
+181416,Asia,268292
+3478,Canada,223907
+181424,Australia & Oceania,189498
+181417,Latin America,149840
+181422,Middle East,134800
+181423,Africa,130336
+7898,Specialty Philately,57562
+181421,Publications & Supplies,47790
+179377,Caribbean,35151
+170137,Other Stamps,26782
+Access,09/27/2020, 12:21:16,260,Stamps,Success,2020-09-27 16:21:27,1.13.0
+261,United States,1471629
+4742,Europe,1404825
+3499,Great Britain,631627
+4752,Topical Stamps,509554
+65174,British Colonies & Territories,484708
+181420,Worldwide,270247
+181416,Asia,267801
+3478,Canada,223947
+181424,Australia & Oceania,188357
+181417,Latin America,149447
+181422,Middle East,135217
+181423,Africa,130319
+7898,Specialty Philately,57063
+181421,Publications & Supplies,47804
+179377,Caribbean,35190
+170137,Other Stamps,27143
+Access,09/28/2020, 12:21:16,260,Stamps,Success,2020-09-28 16:21:28,1.13.0
+261,United States,1473488
+4742,Europe,1398958
+3499,Great Britain,635016
+4752,Topical Stamps,509726
+65174,British Colonies & Territories,484876
+181420,Worldwide,271329
+181416,Asia,267384
+3478,Canada,224331
+181424,Australia & Oceania,188551
+181417,Latin America,149134
+181422,Middle East,134841
+181423,Africa,130006
+7898,Specialty Philately,56782
+181421,Publications & Supplies,48006
+179377,Caribbean,34968
+170137,Other Stamps,27138
+Access,09/29/2020, 12:21:28,260,Stamps,Success,2020-09-29 16:21:40,1.13.0
+261,United States,1467459
+4742,Europe,1400603
+3499,Great Britain,634619
+4752,Topical Stamps,508453
+65174,British Colonies & Territories,486397
+181420,Worldwide,270916
+181416,Asia,268097
+3478,Canada,223516
+181424,Australia & Oceania,188724
+181417,Latin America,149083
+181422,Middle East,135193
+181423,Africa,129519
+7898,Specialty Philately,53518
+181421,Publications & Supplies,47168
+179377,Caribbean,34817
+170137,Other Stamps,27118
+Access,09/30/2020, 12:21:15,260,Stamps,Success,2020-09-30 16:21:27,1.13.0
+261,United States,1455825
+4742,Europe,1397827
+3499,Great Britain,631004
+4752,Topical Stamps,505402
+65174,British Colonies & Territories,487725
+181416,Asia,268953
+181420,Worldwide,268259
+3478,Canada,222121
+181424,Australia & Oceania,188675
+181417,Latin America,148753
+181422,Middle East,133968
+181423,Africa,128513
+7898,Specialty Philately,52460
+181421,Publications & Supplies,47125
+179377,Caribbean,34591
+170137,Other Stamps,27132
+Access,10/01/2020, 12:21:23,260,Stamps,Success,2020-10-01 16:21:36,1.13.0
+261,United States,1462255
+4742,Europe,1404893
+3499,Great Britain,633401
+4752,Topical Stamps,507222
+65174,British Colonies & Territories,490040
+181416,Asia,271102
+181420,Worldwide,255521
+3478,Canada,222853
+181424,Australia & Oceania,187787
+181417,Latin America,149615
+181422,Middle East,135523
+181423,Africa,129493
+7898,Specialty Philately,52851
+181421,Publications & Supplies,47027
+179377,Caribbean,34982
+170137,Other Stamps,22779
+Access,10/02/2020, 12:21:25,260,Stamps,Success,2020-10-02 16:21:38,1.13.0
+261,United States,1475686
+4742,Europe,1421965
+3499,Great Britain,635610
+4752,Topical Stamps,509176
+65174,British Colonies & Territories,490896
+181420,Worldwide,273840
+181416,Asia,272940
+3478,Canada,225254
+181424,Australia & Oceania,186753
+181417,Latin America,150378
+181422,Middle East,136277
+181423,Africa,130747
+7898,Specialty Philately,53664
+181421,Publications & Supplies,47034
+179377,Caribbean,35362
+170137,Other Stamps,27481
+Access,10/03/2020, 12:21:24,260,Stamps,Success,2020-10-03 16:21:37,1.13.0
+261,United States,1474589
+4742,Europe,1433749
+3499,Great Britain,636142
+4752,Topical Stamps,512714
+65174,British Colonies & Territories,491363
+181420,Worldwide,274512
+181416,Asia,273762
+3478,Canada,225546
+181424,Australia & Oceania,188361
+181417,Latin America,151103
+181422,Middle East,136458
+181423,Africa,132481
+7898,Specialty Philately,54156
+181421,Publications & Supplies,47477
+179377,Caribbean,35446
+170137,Other Stamps,27672
+Access,10/04/2020, 12:21:25,260,Stamps,Success,2020-10-04 16:21:38,1.13.0
+261,United States,1472971
+4742,Europe,1437422
+3499,Great Britain,637359
+4752,Topical Stamps,509795
+65174,British Colonies & Territories,491946
+181420,Worldwide,274978
+181416,Asia,273608
+3478,Canada,225761
+181424,Australia & Oceania,190563
+181417,Latin America,151556
+181422,Middle East,136297
+181423,Africa,132870
+7898,Specialty Philately,54410
+181421,Publications & Supplies,47357
+179377,Caribbean,35372
+170137,Other Stamps,27747
+Access,10/05/2020, 12:21:38,260,Stamps,Success,2020-10-05 16:21:49,1.13.0
+261,United States,1474465
+4742,Europe,1442545
+3499,Great Britain,639294
+4752,Topical Stamps,510682
+65174,British Colonies & Territories,492850
+181416,Asia,274237
+181420,Worldwide,274065
+3478,Canada,226304
+181424,Australia & Oceania,189498
+181417,Latin America,151955
+181422,Middle East,136403
+181423,Africa,132707
+7898,Specialty Philately,54100
+181421,Publications & Supplies,47147
+179377,Caribbean,35502
+170137,Other Stamps,27671
+Access,10/06/2020, 12:21:24,260,Stamps,Success,2020-10-06 16:21:38,1.13.0
+261,United States,1475684
+4742,Europe,1443560
+3499,Great Britain,640109
+4752,Topical Stamps,513201
+65174,British Colonies & Territories,494048
+181416,Asia,273940
+181420,Worldwide,273921
+3478,Canada,227577
+181424,Australia & Oceania,191525
+181417,Latin America,151790
+181422,Middle East,136605
+181423,Africa,132772
+7898,Specialty Philately,58764
+181421,Publications & Supplies,47837
+179377,Caribbean,35801
+170137,Other Stamps,27693
+Access,10/07/2020, 12:21:25,260,Stamps,Success,2020-10-07 16:21:40,1.13.0
+261,United States,1479369
+4742,Europe,1441625
+3499,Great Britain,634390
+4752,Topical Stamps,512995
+65174,British Colonies & Territories,494608
+181416,Asia,274175
+181420,Worldwide,272395
+3478,Canada,227851
+181424,Australia & Oceania,191781
+181417,Latin America,151563
+181422,Middle East,137208
+181423,Africa,132848
+7898,Specialty Philately,58514
+181421,Publications & Supplies,47762
+179377,Caribbean,35767
+170137,Other Stamps,27678
+Access,10/08/2020, 12:21:24,260,Stamps,Success,2020-10-08 16:21:39,1.13.0
+261,United States,1477031
+4742,Europe,1443713
+3499,Great Britain,644054
+4752,Topical Stamps,514093
+65174,British Colonies & Territories,496942
+181420,Worldwide,274158
+181416,Asia,273978
+3478,Canada,228079
+181424,Australia & Oceania,192757
+181417,Latin America,151561
+181422,Middle East,136644
+181423,Africa,132962
+7898,Specialty Philately,60646
+181421,Publications & Supplies,47777
+179377,Caribbean,35744
+170137,Other Stamps,27661
+Access,10/09/2020, 12:22:45,260,Stamps,Success,2020-10-09 16:23:00,1.13.0
+261,United States,1472103
+4742,Europe,1447672
+3499,Great Britain,649265
+4752,Topical Stamps,515792
+65174,British Colonies & Territories,501356
+181416,Asia,275428
+181420,Worldwide,274376
+3478,Canada,227143
+181424,Australia & Oceania,194655
+181417,Latin America,151842
+181422,Middle East,137202
+181423,Africa,133703
+7898,Specialty Philately,61179
+181421,Publications & Supplies,47071
+179377,Caribbean,35992
+170137,Other Stamps,27522
+Access,10/10/2020, 12:21:14,260,Stamps,Success,2020-10-10 16:21:46,1.13.0
+261,United States,1470043
+4742,Europe,1452368
+3499,Great Britain,652777
+4752,Topical Stamps,513490
+65174,British Colonies & Territories,503960
+181416,Asia,277388
+181420,Worldwide,274355
+3478,Canada,227697
+181424,Australia & Oceania,196289
+181417,Latin America,151808
+181422,Middle East,137317
+181423,Africa,134052
+7898,Specialty Philately,61975
+181421,Publications & Supplies,47827
+179377,Caribbean,36049
+170137,Other Stamps,27596
+Access,10/11/2020, 12:21:13,260,Stamps,Success,2020-10-11 16:21:46,1.13.0
+261,United States,1470345
+4742,Europe,1444296
+3499,Great Britain,653036
+4752,Topical Stamps,511876
+65174,British Colonies & Territories,502802
+181416,Asia,277114
+181420,Worldwide,274539
+3478,Canada,227508
+181424,Australia & Oceania,195117
+181417,Latin America,152062
+181422,Middle East,136775
+181423,Africa,133044
+7898,Specialty Philately,61939
+181421,Publications & Supplies,47854
+179377,Caribbean,35920
+170137,Other Stamps,27520
+Access,10/12/2020, 12:21:14,260,Stamps,Success,2020-10-12 16:21:46,1.13.0
+261,United States,1467864
+4742,Europe,1438787
+3499,Great Britain,650346
+4752,Topical Stamps,511431
+65174,British Colonies & Territories,503171
+181416,Asia,275783
+181420,Worldwide,274242
+3478,Canada,227401
+181424,Australia & Oceania,195653
+181417,Latin America,151688
+181422,Middle East,136455
+181423,Africa,132822
+7898,Specialty Philately,61796
+181421,Publications & Supplies,47838
+179377,Caribbean,35874
+170137,Other Stamps,27429
+Access,10/13/2020, 12:21:15,260,Stamps,Success,2020-10-13 16:21:47,1.13.0
+261,United States,1468660
+4742,Europe,1439365
+3499,Great Britain,655389
+4752,Topical Stamps,509876
+65174,British Colonies & Territories,503420
+181416,Asia,276386
+181420,Worldwide,271775
+3478,Canada,227263
+181424,Australia & Oceania,195716
+181417,Latin America,152001
+181422,Middle East,136599
+181423,Africa,133104
+7898,Specialty Philately,61683
+181421,Publications & Supplies,48153
+179377,Caribbean,35969
+170137,Other Stamps,27420
+Access,10/14/2020, 12:21:24,260,Stamps,Success,2020-10-14 16:22:00,1.13.0
+261,United States,1473112
+4742,Europe,1438083
+3499,Great Britain,655963
+4752,Topical Stamps,510573
+65174,British Colonies & Territories,507012
+181416,Asia,276566
+181420,Worldwide,274907
+3478,Canada,227791
+181424,Australia & Oceania,196306
+181417,Latin America,152458
+181422,Middle East,137036
+181423,Africa,132745
+7898,Specialty Philately,61617
+181421,Publications & Supplies,48145
+179377,Caribbean,36079
+170137,Other Stamps,27414
+Access,10/15/2020, 12:21:22,260,Stamps,Success,2020-10-15 16:21:58,1.13.0
+261,United States,1473139
+4742,Europe,1438747
+3499,Great Britain,657169
+4752,Topical Stamps,510810
+65174,British Colonies & Territories,508072
+181416,Asia,276969
+181420,Worldwide,275852
+3478,Canada,227846
+181424,Australia & Oceania,196318
+181417,Latin America,152565
+181422,Middle East,137035
+181423,Africa,133003
+7898,Specialty Philately,62031
+181421,Publications & Supplies,48071
+179377,Caribbean,36157
+170137,Other Stamps,27393
+Access,10/16/2020, 12:21:14,260,Stamps,Success,2020-10-16 16:21:51,1.13.0
+261,United States,1466759
+4742,Europe,1424953
+3499,Great Britain,656913
+4752,Topical Stamps,511532
+65174,British Colonies & Territories,505649
+181416,Asia,275957
+181420,Worldwide,254034
+3478,Canada,226473
+181424,Australia & Oceania,196159
+181417,Latin America,152385
+181422,Middle East,136829
+181423,Africa,132979
+7898,Specialty Philately,61614
+181421,Publications & Supplies,47317
+179377,Caribbean,36172
+170137,Other Stamps,20825
+Access,10/17/2020, 12:21:24,260,Stamps,Success,2020-10-17 16:22:01,1.13.0
+261,United States,1470491
+4742,Europe,1424559
+3499,Great Britain,655624
+4752,Topical Stamps,511216
+65174,British Colonies & Territories,506814
+181416,Asia,277042
+181420,Worldwide,275094
+3478,Canada,226965
+181424,Australia & Oceania,196446
+181417,Latin America,152839
+181422,Middle East,136967
+181423,Africa,133049
+7898,Specialty Philately,62042
+181421,Publications & Supplies,47999
+179377,Caribbean,36133
+170137,Other Stamps,26400
+Access,10/18/2020, 12:21:15,260,Stamps,Success,2020-10-18 16:21:52,1.13.0
+261,United States,1469671
+4742,Europe,1419759
+3499,Great Britain,655567
+65174,British Colonies & Territories,507158
+4752,Topical Stamps,504789
+181416,Asia,276027
+181420,Worldwide,274103
+3478,Canada,227069
+181424,Australia & Oceania,196014
+181417,Latin America,152587
+181422,Middle East,136521
+181423,Africa,133240
+7898,Specialty Philately,62328
+181421,Publications & Supplies,48092
+179377,Caribbean,35981
+170137,Other Stamps,26326
+Access,10/19/2020, 12:22:52,260,Stamps,Success,2020-10-19 16:23:29,1.13.0
+261,United States,1469002
+4742,Europe,1408264
+3499,Great Britain,655485
+65174,British Colonies & Territories,504992
+4752,Topical Stamps,502957
+181416,Asia,275566
+181420,Worldwide,274604
+3478,Canada,225675
+181424,Australia & Oceania,195245
+181417,Latin America,152639
+181422,Middle East,135904
+181423,Africa,131754
+7898,Specialty Philately,57509
+181421,Publications & Supplies,47024
+179377,Caribbean,35784
+170137,Other Stamps,26314
+Access,10/20/2020, 12:22:22,260,Stamps,Success,2020-10-20 16:22:58,1.13.0
+261,United States,1466014
+4742,Europe,1396610
+3499,Great Britain,655799
+4752,Topical Stamps,509361
+65174,British Colonies & Territories,502454
+181416,Asia,274784
+181420,Worldwide,273587
+3478,Canada,225489
+181424,Australia & Oceania,194769
+181417,Latin America,150663
+181422,Middle East,134718
+181423,Africa,131392
+7898,Specialty Philately,61063
+181421,Publications & Supplies,47006
+179377,Caribbean,35688
+170137,Other Stamps,26350
+Access,10/21/2020, 12:21:16,260,Stamps,Success,2020-10-21 16:21:53,1.13.0
+261,United States,1464897
+4742,Europe,1397072
+3499,Great Britain,655281
+4752,Topical Stamps,509282
+65174,British Colonies & Territories,504511
+181416,Asia,274220
+181420,Worldwide,274022
+3478,Canada,226139
+181424,Australia & Oceania,195340
+181417,Latin America,149837
+181422,Middle East,134545
+181423,Africa,131190
+7898,Specialty Philately,60860
+181421,Publications & Supplies,47449
+179377,Caribbean,35605
+170137,Other Stamps,26300
+Access,10/22/2020, 12:21:15,260,Stamps,Success,2020-10-22 16:21:53,1.13.0
+261,United States,1464929
+4742,Europe,1398044
+3499,Great Britain,656906
+4752,Topical Stamps,510991
+65174,British Colonies & Territories,505292
+181416,Asia,274437
+181420,Worldwide,274212
+3478,Canada,226550
+181424,Australia & Oceania,195478
+181417,Latin America,150138
+181422,Middle East,134748
+181423,Africa,131306
+7898,Specialty Philately,61167
+181421,Publications & Supplies,47477
+179377,Caribbean,35736
+170137,Other Stamps,26328
+Access,10/23/2020, 12:21:19,260,Stamps,Success,2020-10-23 16:21:57,1.13.0
+261,United States,1472383
+4742,Europe,1400691
+3499,Great Britain,657126
+4752,Topical Stamps,512960
+65174,British Colonies & Territories,506881
+181416,Asia,274667
+181420,Worldwide,270680
+3478,Canada,226204
+181424,Australia & Oceania,195092
+181417,Latin America,150283
+181422,Middle East,135819
+181423,Africa,131364
+7898,Specialty Philately,61558
+181421,Publications & Supplies,46636
+179377,Caribbean,35763
+170137,Other Stamps,26422
+Access,10/24/2020, 12:21:15,260,Stamps,Success,2020-10-24 16:21:53,1.13.0
+261,United States,1473953
+4742,Europe,1400461
+3499,Great Britain,656061
+4752,Topical Stamps,512306
+65174,British Colonies & Territories,504417
+181420,Worldwide,274541
+181416,Asia,273084
+3478,Canada,228421
+181424,Australia & Oceania,195454
+181417,Latin America,150113
+181422,Middle East,135641
+181423,Africa,131348
+7898,Specialty Philately,61466
+181421,Publications & Supplies,47373
+179377,Caribbean,35774
+170137,Other Stamps,26362
+Access,10/25/2020, 12:21:15,260,Stamps,Success,2020-10-25 16:21:53,1.13.0
+261,United States,1474222
+4742,Europe,1406278
+3499,Great Britain,654214
+4752,Topical Stamps,510282
+65174,British Colonies & Territories,502299
+181420,Worldwide,274033
+181416,Asia,273342
+3478,Canada,228373
+181424,Australia & Oceania,194985
+181417,Latin America,149197
+181422,Middle East,135458
+181423,Africa,132185
+7898,Specialty Philately,61914
+181421,Publications & Supplies,47348
+179377,Caribbean,35711
+170137,Other Stamps,26414
+Access,10/26/2020, 12:21:14,260,Stamps,Success,2020-10-26 16:21:53,1.13.0
+261,United States,1467265
+4742,Europe,1405789
+3499,Great Britain,654675
+4752,Topical Stamps,508902
+65174,British Colonies & Territories,501231
+181420,Worldwide,273495
+181416,Asia,273487
+3478,Canada,227646
+181424,Australia & Oceania,194034
+181417,Latin America,149200
+181422,Middle East,135015
+181423,Africa,132330
+7898,Specialty Philately,57466
+181421,Publications & Supplies,45549
+179377,Caribbean,35500
+170137,Other Stamps,26513
+Access,10/27/2020, 12:21:27,260,Stamps,Success,2020-10-27 16:22:07,1.13.0
+261,United States,1469225
+4742,Europe,1414160
+3499,Great Britain,655099
+4752,Topical Stamps,509146
+65174,British Colonies & Territories,505271
+181420,Worldwide,275196
+181416,Asia,274513
+3478,Canada,228463
+181424,Australia & Oceania,194791
+181417,Latin America,151126
+181422,Middle East,135566
+181423,Africa,132481
+7898,Specialty Philately,57666
+181421,Publications & Supplies,45545
+179377,Caribbean,35646
+170137,Other Stamps,26493
+Access,10/28/2020, 12:21:20,260,Stamps,Success,2020-10-28 16:21:59,1.13.0
+261,United States,1467980
+4742,Europe,1413678
+3499,Great Britain,655087
+4752,Topical Stamps,511501
+65174,British Colonies & Territories,505414
+181420,Worldwide,275424
+181416,Asia,274099
+3478,Canada,228034
+181424,Australia & Oceania,194939
+181417,Latin America,151281
+181422,Middle East,135433
+181423,Africa,132671
+7898,Specialty Philately,57623
+181421,Publications & Supplies,45557
+179377,Caribbean,35761
+170137,Other Stamps,26461
+Access,10/29/2020, 12:21:19,260,Stamps,Success,2020-10-29 16:21:59,1.13.0
+261,United States,1456311
+4742,Europe,1411635
+3499,Great Britain,652490
+4752,Topical Stamps,510749
+65174,British Colonies & Territories,504386
+181420,Worldwide,275577
+181416,Asia,273731
+3478,Canada,228559
+181424,Australia & Oceania,194920
+181417,Latin America,150686
+181422,Middle East,135419
+181423,Africa,132346
+7898,Specialty Philately,56657
+181421,Publications & Supplies,45392
+179377,Caribbean,35637
+170137,Other Stamps,26516
+Access,10/30/2020, 12:21:15,260,Stamps,Success,2020-10-30 16:21:55,1.13.0
+261,United States,1456843
+4742,Europe,1409076
+3499,Great Britain,652523
+65174,British Colonies & Territories,506728
+4752,Topical Stamps,505342
+181416,Asia,273487
+181420,Worldwide,254770
+3478,Canada,228644
+181424,Australia & Oceania,195617
+181417,Latin America,150100
+181422,Middle East,134806
+181423,Africa,132731
+7898,Specialty Philately,56720
+181421,Publications & Supplies,44430
+179377,Caribbean,35451
+170137,Other Stamps,19837
+Access,10/31/2020, 12:21:15,260,Stamps,Success,2020-10-31 16:21:55,1.13.0
+261,United States,1453271
+4742,Europe,1408678
+3499,Great Britain,651750
+65174,British Colonies & Territories,506386
+4752,Topical Stamps,505195
+181420,Worldwide,275177
+181416,Asia,273964
+3478,Canada,228521
+181424,Australia & Oceania,195288
+181417,Latin America,149762
+181422,Middle East,135123
+181423,Africa,132932
+7898,Specialty Philately,56571
+181421,Publications & Supplies,45185
+179377,Caribbean,35549
+170137,Other Stamps,26528
+Access,11/01/2020, 12:21:16,260,Stamps,Success,2020-11-01 17:21:56,1.13.0
+261,United States,1533745
+4742,Europe,1416121
+3499,Great Britain,656488
+65174,British Colonies & Territories,507573
+4752,Topical Stamps,506555
+181420,Worldwide,275510
+181416,Asia,275424
+3478,Canada,228550
+181424,Australia & Oceania,196476
+181417,Latin America,150259
+181422,Middle East,136223
+181423,Africa,133828
+7898,Specialty Philately,56725
+181421,Publications & Supplies,46193
+179377,Caribbean,35588
+170137,Other Stamps,26571
