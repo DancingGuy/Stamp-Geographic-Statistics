@@ -1,1 +1,2 @@
-add
+This folder contains an Enhanced Entity Relationship (EER) Diagram, a MySQL Workbench model file (.mwb) and a full database dump as of November 2, 2020.
+The dump file will generate the schema realtionships upon Data Import in Workbench.
